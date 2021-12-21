@@ -10,7 +10,7 @@ export const Home = (): JSX.Element => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="https://nextjs.org">web wallet for Polkadot</a>
       </h1>
 
       <p className="description">
