@@ -119,9 +119,9 @@ const Layout = ({ children }: { children: JSX.Element }): ReactElement => {
 
         <footer className={styles.footerHome}>
           <p>
-            MyWallet tutorial created by{" "}
-            <a className={styles.footerLink} href="https://learn.figment.io/">
-              Figment Learn
+            DOT Wallet tutorial created by{" "}
+            <a className={styles.footerLink} href="https://waszczyk.com">
+              Tomasz Waszczyk
             </a>
           </p>
         </footer>
